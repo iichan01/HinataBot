@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6282195322106', '️Oᴡɴᴇʀ One', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Two', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Three', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Four', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Five', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Six', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Seven', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Eight', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Nine', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Teen', true]
+  ['6285765726474', '️Oᴡɴᴇʀ One', true],
+  ['6285765726474', '️Oᴡɴᴇʀ Two', true],
+  ['6285765726474', '️Oᴡɴᴇʀ Three', true],
+  ['6285765726474', '️Oᴡɴᴇʀ Four', true],
+  ['6285765726474', '️Oᴡɴᴇʀ Five', true],
+  ['6285765726474', '️Oᴡɴᴇʀ Six', true],
+  ['6285765726474', '️Oᴡɴᴇʀ Seven', true],
+  ['6285765726474', '️Oᴡɴᴇʀ Eight', true],
+  ['6285765726474', '️Oᴡɴᴇʀ Nine', true],
+  ['6285765726474', '️Oᴡɴᴇʀ Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -440,16 +440,16 @@ global.gcwangsaf = 'https://chat.whatsapp.com/Fxz8FpQ0ddr2GrEjfYkJ1E'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/wudysoft'
-global.dana = ['0887435373103']
-global.pulsa = ['082195322106']
+global.dana = ['085247949230']
+global.pulsa = ['085247949230']
 global.trakteer = 'https://trakteer.id/wudysoft'
 global.paypal = 'wudysoft@mail.com'
-global.gopay = '082195322106'
-global.pdana = '0887435373103'
-global.povo = '082195322106'
-global.pgopay = '082195322106'
-global.ppulsa = '082195322106'
-global.ppulsa2 = '082195322106'
+global.gopay = '085247949230'
+global.pdana = '085247949230'
+global.povo = '085247949230'
+global.pgopay = '085247949230'
+global.ppulsa = '085247949230'
+global.ppulsa2 = '085247949230'
 global.psaweria = 'https://saweria.com/Wudysoft'
 
 /*Emoji*/
